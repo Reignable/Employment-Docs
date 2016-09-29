@@ -4,6 +4,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[scale=0.8]{geometry}
 \usepackage[none]{hyphenat}
+\usepackage{verbatim}
 
 \usepackage{fontawesome}
 \moderncvtheme[black]{banking}
@@ -20,7 +21,6 @@
 \extrainfo{\faGithub~github.com/Reignable}
 \nopagenumbers
 \begin{document}
-%\sethintscolumnlength{4.6cm}
 \makecvtitle
 \vspace*{-10mm}
 \section{Education}
@@ -30,10 +30,7 @@
 		{Edinburgh Napier University}
 		{BEng(Hons) Software Engineering}
 		{}
-		{\cvitem
-			{Dissertation}
-			{Calculation of Mountain Bike Setup through Mobile Image Analysis}	
-		}
+		{}
 	\cventry
 		{Pass}
 		{2012--2013}
@@ -41,6 +38,24 @@
 		{HNC Computing}
 		{}
 		{}
+	\section{Major Projects}
+		\cvitem
+			{Dissertation - Calculation of Mountain Bike Suspension Setup through Mobile Image Analysis}
+			{}		
+				\cvlistitem{In Progress}
+				\cvlistitem{Use of image analysis and user supplied information to calculate optimal suspension settings}
+				\cvlistitem{Building mobile application for Android platform}
+				\cvlistitem{Using Open CV library image processing library}
+				\cvlistitem{Languages: Java, C++}
+		\cvitem
+			{Helmet Crash Sensor}
+			{}
+			\cvlistitem{Created helmet mounted device and accompanying Android application}
+			\cvlistitem{Detection of certain criteria signals a crash and sends SMS to emergency contact}
+			\cvlistitem{Use of 3D trigonometry to calculate orientation using accelerometer and gyroscope data}
+		\cvitem
+			{Mountain Bike Suspension Data Logger}
+			{}
 \section{Employment}
 	\cventry
 		{}
@@ -52,7 +67,7 @@
 			\cvlistitem{Maintaining and adjusting performance tests for Virtuoso software}
 			\cvlistitem{Wrote performance testing suite in Python, including automated emailing, data analysis utilities, and automatic debugging}
 			\cvlistitem{Notified engineers on failing tests and assisted in debugging}
-			\cvlistitem{Created performance tests to compare product platforms}
+			\cvlistitem{Created performance tests to compare product platforms using Cadence's SKILL language}
 			\cvlistitem{Presented during internal confrence for interns and summary of work at end of internship}
 		}
 	\cventry
@@ -73,49 +88,55 @@
 		{C\&G Cycles}
 		{Assistant Manager and Mechanic}
 		{Edinburgh}
-		{
+		{}
+		\begin{comment}
 			\cvlistitem{Assembling high end custom road bikes}
 			\cvlistitem{Setting up, updating, and customising electronic gear systems}
 			\cvlistitem{Attending trade shows and manufacturers events}
-		}
+		\end{comment}
 	\cventry
 		{}
 		{April 2011--June 2012 \& May 2015--August 2015}
 		{Twelve50 Bikes}
 		{Workshop Manager and Sales Assistant}
 		{Frodsham}
-		{
+		{}
+		\begin{comment}
 			\cvlistitem{Repairs}
 			\cvlistitem{New builds}
 			\cvlistitem{Assembling high end custom road and mountain bikes}
 			\cvlistitem{Maintaining stock of workshop supplies}
 			\cvlistitem{Assembling and maintaining race bike fleet}
 			\cvlistitem{All aspects of sales}
-		}
+		\end{comment}
 	\cventry
 		{}
 		{March 2010--April 2011}
 		{Cheshire Oaks Cycles}
 		{2nd Mechanic and Sales Assistant}
 		{Ellesmere Port}
-		{Same as previous, including:\\
+		{}
+		\begin{comment}
+			Same as previous, including:\\
 			\cvlistitem{Creating various graphics including price tags and shop jerseys}
 			\cvlistitem{Stock processing}
-		}
+		\end{comment}		
 	\cventry
 		{}
 		{October 2007--June 2009}
 		{Graham Weigh Cycles}
 		{2nd Mechanic and Sales Assistant}
 		{Queensferry}
-		{
+		{}
+			\begin{comment}
 			\cvlistitem{Repairs}
 			\cvlistitem{New Builds}
 			\cvlistitem{Refurbishing and selling second hand cycles}
 			\cvlistitem{Building custom road bikes}
 			\cvlistitem{All aspects of sales}
-			\cvlistitem{General shop cleaning and maintenance}			
-		}
+			\cvlistitem{General shop cleaning and maintenance}	
+		}		
+			\end{comment}
 \section{Skilled Training}
 	\cventry
 		{}
