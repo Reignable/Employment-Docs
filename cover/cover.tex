@@ -1,0 +1,77 @@
+\documentclass{article}
+
+\usepackage{kantlipsum}   %% only for demo
+%\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{marvosym}
+\usepackage{graphicx}
+\usepackage{fontawesome}
+\usepackage{fontspec}
+\setmainfont{Arial}
+
+\pagestyle{empty}
+
+\usepackage[scale=0.775]{geometry}
+\setlength{\parindent}{0pt}
+\addtolength{\parskip}{6pt}
+
+%%%%%MY INFO%%%%%
+\def\firstname{Joe}
+\def\surname{Barrett}
+\def\address{\faMapMarker~15/6 Falcon Gardens\\Edinburgh, EH10 4AP\\}
+\def\phone{\faMobilePhone~07706926045}
+\def\FileAuthor{\firstname\ \surname}
+\def\FileTitle{\firstname\ \surname's cover letter}
+
+%%%%%THEIR INFO%%%%%
+\def\compName{Company Name}
+\def\compAddress{Number and street\\city, postcode}
+
+\renewcommand{\ttdefault}{pcr}
+
+\usepackage{url}
+\urlstyle{tt}
+
+
+
+\begin{document}
+	\hfill%
+\begin{minipage}[t]{.6\textwidth}
+	\raggedleft%
+	{\bfseries \FileAuthor}\\[.35ex]
+	\small\itshape%
+	\address[.35ex]
+	\phone\\
+
+\end{minipage}\\[1em]
+%
+\begin{minipage}[t]{.4\textwidth}
+	\raggedright%
+	{\bfseries \compName}\\[.35ex]
+	\small\itshape%
+	\compAddress
+\end{minipage}
+%\\[1em]
+\hfill
+\begin{minipage}[t]{.4\textwidth}
+	\hfill
+	\raggedleft
+	\today
+	%April 6, 2006 % US informal style
+	%05/04/2006 % UK formal style
+\end{minipage}\\[2em]
+\raggedright
+Dear Sir or Madam,\\[1.5em]
+%
+\kant[1-3]
+
+%Yours sincerely,\\[2em] % if the opening is "Dear Mr(s) Doe,"
+Yours faithfully,\\[2em] % if the opening is "Dear Sir or Madam,"
+%
+\includegraphics{../sig.png}\\
+{\bfseries \FileAuthor}\\
+%
+\vfill%
+{\slshape Attachment: curriculum vit\ae{}}
+\end{document}
