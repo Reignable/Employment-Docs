@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.9.19)  30 SEP 2016 10:42
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.9.19)  30 SEP 2016 11:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -806,37 +806,37 @@ tly
 )
 \Hy@SectionHShift=\skip79
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 27.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 27.
+Package hyperref Info: Option `breaklinks' set `true' on input line 26.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 26.
 
 (./cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 27.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 26.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 26.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Info: Redefining \microtypecontext on input line 27.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Info: Redefining \microtypecontext on input line 26.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -885,7 +885,7 @@ Package microtype Info: Loading generic settings for font family
 *** XeTeX expects the source to be in UTF8 encoding
 *** some features of other encodings may conflict, resulting in poor output.
 \AtBeginShipoutBox=\box45
-Package hyperref Info: Link coloring OFF on input line 27.
+Package hyperref Info: Link coloring OFF on input line 26.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -894,9 +894,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count143
 )
-LaTeX Info: Redefining \ref on input line 27.
-LaTeX Info: Redefining \pageref on input line 27.
-LaTeX Info: Redefining \nameref on input line 27.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
 
 (./cv.out) (./cv.out)
 \@outlinefile=\write3
@@ -1383,7 +1383,7 @@ Package microtype Info: Character `\textless ' is missing
 Package microtype Info: Character `\textgreater ' is missing
 (microtype)             in font `\EU1/FontAwesome(0)/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 28.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 27.
  (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1391,32 +1391,37 @@ File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 28.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 27.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 28.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 27.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 28.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 27.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 28.
+(Font)              <10.95> on input line 27.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 28.
+(Font)              <8> on input line 27.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 28.
+(Font)              <6> on input line 27.
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--28
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
 
+ []
+
+
+Overfull \hbox (11.0827pt too wide) in paragraph at lines 48--48
+[]    \EU1/Arial(0)/m/n/10.95 -    [] 
  []
 
 
@@ -1440,7 +1445,7 @@ Overfull \hbox (11.0827pt too wide) in paragraph at lines 52--52
  []
 
 
-Overfull \hbox (11.0827pt too wide) in paragraph at lines 53--53
+Overfull \hbox (11.0827pt too wide) in paragraph at lines 56--56
 []    \EU1/Arial(0)/m/n/10.95 -    [] 
  []
 
@@ -1465,7 +1470,7 @@ Overfull \hbox (11.0827pt too wide) in paragraph at lines 60--60
  []
 
 
-Overfull \hbox (11.0827pt too wide) in paragraph at lines 61--61
+Overfull \hbox (11.0827pt too wide) in paragraph at lines 64--64
 []    \EU1/Arial(0)/m/n/10.95 -    [] 
  []
 
@@ -1485,74 +1490,74 @@ Overfull \hbox (11.0827pt too wide) in paragraph at lines 67--67
  []
 
 
-Overfull \hbox (11.0827pt too wide) in paragraph at lines 68--68
-[]    \EU1/Arial(0)/m/n/10.95 -    [] 
- []
-
-
-Overfull \hbox (9.35863pt too wide) in paragraph at lines 82--82
+Overfull \hbox (9.35863pt too wide) in paragraph at lines 81--81
 []    \EU1/Arial(0)/m/n/10 -    [] 
  []
 
 
-Overfull \hbox (9.35863pt too wide) in paragraph at lines 82--82
+Overfull \hbox (9.35863pt too wide) in paragraph at lines 81--81
 []    \EU1/Arial(0)/m/n/10 -    [] 
  []
 
 
-Overfull \hbox (9.35863pt too wide) in paragraph at lines 82--82
+Overfull \hbox (9.35863pt too wide) in paragraph at lines 81--81
 []    \EU1/Arial(0)/m/n/10 -    [] 
  []
 
 
-Overfull \hbox (9.35863pt too wide) in paragraph at lines 82--82
+Overfull \hbox (9.35863pt too wide) in paragraph at lines 81--81
 []    \EU1/Arial(0)/m/n/10 -    [] 
  []
 
 
-Overfull \hbox (9.35863pt too wide) in paragraph at lines 82--82
+Overfull \hbox (9.35863pt too wide) in paragraph at lines 81--81
 []    \EU1/Arial(0)/m/n/10 -    [] 
  []
 
 
-Overfull \hbox (9.35863pt too wide) in paragraph at lines 94--94
+Overfull \hbox (9.35863pt too wide) in paragraph at lines 93--93
 []    \EU1/Arial(0)/m/n/10 -    [] 
  []
 
 
-Overfull \hbox (9.35863pt too wide) in paragraph at lines 94--94
+Overfull \hbox (9.35863pt too wide) in paragraph at lines 93--93
 []    \EU1/Arial(0)/m/n/10 -    [] 
  []
 
 
-Overfull \hbox (9.35863pt too wide) in paragraph at lines 94--94
+Overfull \hbox (9.35863pt too wide) in paragraph at lines 93--93
 []    \EU1/Arial(0)/m/n/10 -    [] 
  []
 
 
-Overfull \hbox (9.35863pt too wide) in paragraph at lines 94--94
+Overfull \hbox (9.35863pt too wide) in paragraph at lines 93--93
 []    \EU1/Arial(0)/m/n/10 -    [] 
  []
 
 [1
 
 ]
-Overfull \hbox (21.0723pt too wide) in alignment at lines 113--113
+Overfull \hbox (21.0723pt too wide) in alignment at lines 112--112
 [] [] 
  []
 
 
 LaTeX Font Warning: Font shape `EU1/Arial(0)/sb/n' undefined
-(Font)              using `EU1/Arial(0)/m/n' instead on input line 187.
+(Font)              using `EU1/Arial(0)/m/n' instead on input line 186.
 
 
-Underfull \hbox (badness 10000) detected at line 187
+Underfull \hbox (badness 10000) detected at line 186
 \EU1/Arial(0)/m/n/8 .
  []
 
 
-Underfull \hbox (badness 10000) detected at line 195
+Underfull \hbox (badness 10000) detected at line 194
 \EU1/Arial(0)/m/n/8 .
+ []
+
+
+Overfull \hbox (11.0827pt too wide) in paragraph at lines 198--198
+[]    \EU1/Arial(0)/m/n/10.95 -    [] 
  []
 
 
@@ -1565,17 +1570,12 @@ Overfull \hbox (11.0827pt too wide) in paragraph at lines 200--200
 []    \EU1/Arial(0)/m/n/10.95 -    [] 
  []
 
-
-Overfull \hbox (11.0827pt too wide) in paragraph at lines 201--201
-[]    \EU1/Arial(0)/m/n/10.95 -    [] 
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 202.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 201.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 202.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 201.
  (./cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 202.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 202.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 201.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 201.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
