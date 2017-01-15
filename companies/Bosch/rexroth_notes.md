@@ -33,3 +33,11 @@
 |Inheritance|Family tree. Takes atributes and methods from super class|
 |Composition|Class contains attributes which are other objects|
 |Polymorphism|Object can act as another. Able to use subclasses where parent class is accepted|
+
+## My Qs
+ - What's daily life like
+ - What does the scheme involve
+ - Is it good working there
+ - Are projects diverse
+ - What does success look like in this role?
+ - If I were to get the position, is there anything I should know beforehand?
