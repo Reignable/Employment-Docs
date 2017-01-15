@@ -22,6 +22,7 @@
 |Difficult team member|Frank|
 |Struggle|Start of Cadence|
 |Completed project|Cadence/Sensing systems|
+|Solved prob|Career change?|
 
 ## Technical
 |Item|Description|
