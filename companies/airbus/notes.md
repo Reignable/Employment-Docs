@@ -11,16 +11,17 @@
  - Eurofighter, UAV
  - Secure communications, Intelligence, Cyber Security
 
-## Other Qs
-|Question|Answer|
-|---|---|
-|Led a team|Group project|
-|Worked as part of a team|MOSP|
-|Confrontation|Sale guy?|
-|Difficult team member|Frank|
-|Struggle|Start of Cadence|
-|Completed project|Cadence/Sensing systems|
-|Solved prob|Career change?|
+## Competency Questions
+|Competency|Description|Answer|
+|---|---|---|
+|Technical Aptitude|Able to understand and convey the principles of their technical discipline in simple terms to both technical and non-technical colleagues.|Easy, yep, sorted|
+|Involvement|Able to demonstrate that they participate and go beyond the core elements of their studies or role.|Extra curricular (Formula Student), Seism business|
+|Creativity|Able to suggest new or innovative ways of working to improve the company’s productivity or brand. They should be able to take opportunities to create, update, change or challenge as needed as well as initiating discussions and ideas on topics that may be out of their comfort zone.|Cadence|
+|Problem Solving|Able to define problems and apply logic in a practical way to resolve them. They should be able to suggest appropriate and thought through solutions to overcome issues and be able to challenge information and question objectively whilst remaining attentive to detail.|Career Change. Multithreadded debugging|
+|Adaptability|Able to work in a flexible environment and adapt their priorities, their behaviour and communication style to the most appropriate level. They should actively seek and accept feedback & use this as appropriate.|Time at Cadence|
+|Commercial Awareness|Displays an awareness of the overall Airbus Defence and Space business. They should have a knowledge and understanding of the impact of their actions on others as well as the business.|Above|
+|Team working|Able to work as part of several diverse teams in varying roles & able to adapt their behaviour and style accordingly to ensure a collaborative approach.|Group project, MOSP, Cadence|
+|Communication|Able to communicate confidently and build rapport through the development of close relationships. Able to network both inside and outside and utilise these relationships for their development.|Yes|
 
 ## Technical
 |Item|Description|
